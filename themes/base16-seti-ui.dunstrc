@@ -1,0 +1,14 @@
+[base16_low]
+    msg_urgency = low
+    background = "#8ec43d"
+    foreground = "#41535B"
+
+[base16_normal]
+    msg_urgency = normal
+    background = "#3B758C"
+    foreground = "#d6d6d6"
+
+[base16_critical]
+    msg_urgency = critical
+    background = "#Cd3f45"
+    foreground = "#eeeeee"
