@@ -1,3 +1,6 @@
+frame_color = "#CDD3DE"
+separator_color = "#CDD3DE"
+
 [base16_low]
     msg_urgency = low
     background = "#2C393F"
