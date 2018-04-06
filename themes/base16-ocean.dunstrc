@@ -1,3 +1,6 @@
+frame_color = "#c0c5ce"
+separator_color = "#c0c5ce"
+
 [base16_low]
     msg_urgency = low
     background = "#343d46"
