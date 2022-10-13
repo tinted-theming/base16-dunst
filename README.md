@@ -1,7 +1,7 @@
 # base16-dunst
 
 This repository is meant to work with
-[chriskempson/base16](https://github.com/chriskempson/base16).
+[tinted-theming/home](https://github.com/tinted-theming/home).
 It provides a simple template that can be used with the base16 color schemes to
 generate a functional config file for
 [knopwob/dunst](https://github.com/knopwob/dunst),
@@ -11,7 +11,7 @@ To use, you can copy one of the config files in themes/ or use curl:
 
 ```
 mkdir -p ~/.config/dunst
-curl https://raw.githubusercontent.com/khamer/base16-dunst/master/themes/base16-default-dark.dunstrc >> ~/.config/dunst/dunstrc
+curl https://raw.githubusercontent.com/tinted-theming/base16-dunst/master/themes/base16-default-dark.dunstrc >> ~/.config/dunst/dunstrc
 ```
 
 We used `msg_urgency` configuration instead of `urgency_low`, `urgency_normal`,
