@@ -1,11 +1,15 @@
+# Base16 Windows 95 Light
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#545454"
-separator_color = frame
+    frame_color = "#545454"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#00a8a8"
-    foreground = "#fcfcfc"
+    background = "#0000a8"
+    foreground = "#c4c4c4"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#a80000"
-    foreground = "#fcfcfc"
+    foreground = "#c4c4c4"

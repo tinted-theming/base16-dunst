@@ -1,11 +1,15 @@
+# Base16 ShadeSmear Dark
+# Scheme author: Kyle Giammarco (http://kyle.giammar.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#dbdbdb"
-separator_color = frame
+    frame_color = "#dbdbdb"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#c57d42"
-    foreground = "#232323"
+    background = "#376388"
+    foreground = "#4e4e4e"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#cc5450"
-    foreground = "#232323"
+    foreground = "#4e4e4e"

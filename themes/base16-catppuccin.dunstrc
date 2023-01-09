@@ -1,11 +1,14 @@
+# Base16 Catppuccin
+# Scheme author: Pocco81 (https://github.com/pocco81)
+
 [global]
-frame_color = "#d7dae0"
-separator_color = frame
+    frame_color = "#d7dae0"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#b5e8e0"
-    foreground = "#1e1e28"
+    background = "#96cdfb"
+    foreground = "#302d41"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f28fad"
-    foreground = "#1e1e28"
+    foreground = "#302d41"

@@ -1,11 +1,15 @@
+# Base16 Equilibrium Gray Dark
+# Scheme author: Carlo Abelli
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#ababab"
-separator_color = frame
+    frame_color = "#ababab"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#00948b"
-    foreground = "#111111"
+    background = "#008dd1"
+    foreground = "#262626"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f04339"
-    foreground = "#111111"
+    foreground = "#262626"

@@ -1,11 +1,15 @@
+# Base16 Apprentice
+# Scheme author: romainl
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#5f5f87"
-separator_color = frame
+    frame_color = "#5f5f87"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#87afd7"
-    foreground = "#262626"
+    background = "#8787af"
+    foreground = "#5f875f"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#444444"
-    foreground = "#262626"
+    foreground = "#5f875f"

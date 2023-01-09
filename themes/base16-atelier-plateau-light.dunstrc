@@ -1,11 +1,15 @@
+# Base16 Atelier Plateau Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#585050"
-separator_color = frame
+    frame_color = "#585050"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#5485b6"
-    foreground = "#f4ecec"
+    background = "#7272ca"
+    foreground = "#8a8585"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ca4949"
-    foreground = "#f4ecec"
+    foreground = "#8a8585"

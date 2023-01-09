@@ -1,11 +1,15 @@
+# Base16 Windows 10
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#cccccc"
-separator_color = frame
+    frame_color = "#cccccc"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#61d6d6"
-    foreground = "#0c0c0c"
+    background = "#3b78ff"
+    foreground = "#535353"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#e74856"
-    foreground = "#0c0c0c"
+    foreground = "#535353"

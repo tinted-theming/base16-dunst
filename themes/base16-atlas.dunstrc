@@ -1,11 +1,15 @@
+# Base16 Atlas
+# Scheme author: Alex Lende (https://ajlende.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#a1a19a"
-separator_color = frame
+    frame_color = "#a1a19a"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#14747e"
-    foreground = "#002635"
+    background = "#5dd7b9"
+    foreground = "#517f8d"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff5a67"
-    foreground = "#002635"
+    foreground = "#517f8d"

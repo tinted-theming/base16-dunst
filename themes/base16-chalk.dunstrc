@@ -1,11 +1,15 @@
+# Base16 Chalk
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#d0d0d0"
-separator_color = frame
+    frame_color = "#d0d0d0"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#12cfc0"
-    foreground = "#151515"
+    background = "#6fc2ef"
+    foreground = "#303030"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#fb9fb1"
-    foreground = "#151515"
+    foreground = "#303030"

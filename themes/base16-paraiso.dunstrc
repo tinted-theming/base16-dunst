@@ -1,11 +1,15 @@
+# Base16 Paraiso
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#a39e9b"
-separator_color = frame
+    frame_color = "#a39e9b"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#5bc4bf"
-    foreground = "#2f1e2e"
+    background = "#06b6ef"
+    foreground = "#4f424c"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ef6155"
-    foreground = "#2f1e2e"
+    foreground = "#4f424c"

@@ -1,11 +1,15 @@
+# Base16 Brush Trees Dark
+# Scheme author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#b0c5c8"
-separator_color = frame
+    frame_color = "#b0c5c8"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#86b3b3"
-    foreground = "#485867"
+    background = "#868cb3"
+    foreground = "#6d828e"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#b38686"
-    foreground = "#485867"
+    foreground = "#6d828e"

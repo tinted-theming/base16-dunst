@@ -1,11 +1,15 @@
+# Base16 Embers
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
 [global]
-frame_color = "#a39a90"
-separator_color = frame
+    frame_color = "#a39a90"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#576d82"
-    foreground = "#16130f"
+    background = "#6d5782"
+    foreground = "#433b32"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +19,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#826d57"
-    foreground = "#16130f"
+    foreground = "#433b32"
