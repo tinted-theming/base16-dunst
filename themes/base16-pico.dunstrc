@@ -1,11 +1,14 @@
+# Base16 Pico
+# Scheme author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
 [global]
-frame_color = "#5f574f"
-separator_color = frame
+    frame_color = "#5f574f"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#29adff"
-    foreground = "#000000"
+    background = "#83769c"
+    foreground = "#7e2553"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff004d"
-    foreground = "#000000"
+    foreground = "#7e2553"

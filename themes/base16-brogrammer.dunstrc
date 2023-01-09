@@ -1,11 +1,14 @@
+# Base16 Brogrammer
+# Scheme author: Vik Ramanujam (http://github.com/piggyslasher)
+
 [global]
-frame_color = "#4e5ab7"
-separator_color = frame
+    frame_color = "#4e5ab7"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#1081d6"
-    foreground = "#1f1f1f"
+    background = "#5350b9"
+    foreground = "#2dc55e"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#d6dbe5"
-    foreground = "#1f1f1f"
+    foreground = "#2dc55e"

@@ -1,11 +1,14 @@
+# Base16 Apathy
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+
 [global]
-frame_color = "#81b5ac"
-separator_color = frame
+    frame_color = "#81b5ac"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#963e4c"
-    foreground = "#031a16"
+    background = "#96883e"
+    foreground = "#184e45"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#3e9688"
-    foreground = "#031a16"
+    foreground = "#184e45"

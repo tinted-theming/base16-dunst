@@ -1,11 +1,14 @@
+# Base16 Da One Sea
+# Scheme author: NNB (https://github.com/NNBnh)
+
 [global]
-frame_color = "#ffffff"
-separator_color = frame
+    frame_color = "#ffffff"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#8af5ff"
-    foreground = "#22273d"
+    background = "#6bb8ff"
+    foreground = "#525866"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#fa7883"
-    foreground = "#22273d"
+    foreground = "#525866"

@@ -1,11 +1,14 @@
+# Base16 Silk Light
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+
 [global]
-frame_color = "#385156"
-separator_color = frame
+    frame_color = "#385156"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#329ca2"
-    foreground = "#e9f1ef"
+    background = "#39aac9"
+    foreground = "#90b7b6"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#cf432e"
-    foreground = "#e9f1ef"
+    foreground = "#90b7b6"

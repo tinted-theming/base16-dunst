@@ -1,11 +1,14 @@
+# Base16 Primer Dark Dimmed
+# Scheme author: Jimmy Lin
+
 [global]
-frame_color = "#909dab"
-separator_color = frame
+    frame_color = "#909dab"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#96d0ff"
-    foreground = "#1c2128"
+    background = "#539bf5"
+    foreground = "#444c56"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f47067"
-    foreground = "#1c2128"
+    foreground = "#444c56"

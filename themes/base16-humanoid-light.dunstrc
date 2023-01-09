@@ -1,11 +1,14 @@
+# Base16 Humanoid light
+# Scheme author: Thomas (tasmo) Friese
+
 [global]
-frame_color = "#232629"
-separator_color = frame
+    frame_color = "#232629"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#008e8e"
-    foreground = "#f8f8f2"
+    background = "#0082c9"
+    foreground = "#deded8"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#b0151a"
-    foreground = "#f8f8f2"
+    foreground = "#deded8"

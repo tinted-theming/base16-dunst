@@ -1,11 +1,14 @@
+# Base16 Ayu Dark
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+
 [global]
-frame_color = "#e6e1cf"
-separator_color = frame
+    frame_color = "#e6e1cf"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#95e6cb"
-    foreground = "#0f1419"
+    background = "#59c2ff"
+    foreground = "#272d38"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f07178"
-    foreground = "#0f1419"
+    foreground = "#272d38"

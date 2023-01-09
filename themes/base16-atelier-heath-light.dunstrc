@@ -1,11 +1,14 @@
+# Base16 Atelier Heath Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+
 [global]
-frame_color = "#695d69"
-separator_color = frame
+    frame_color = "#695d69"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#159393"
-    foreground = "#f7f3f7"
+    background = "#516aec"
+    foreground = "#ab9bab"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ca402b"
-    foreground = "#f7f3f7"
+    foreground = "#ab9bab"

@@ -1,11 +1,14 @@
+# Base16 XCode Dusk
+# Scheme author: Elsa Gonsiorowski (https://github.com/gonsie)
+
 [global]
-frame_color = "#939599"
-separator_color = frame
+    frame_color = "#939599"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#00a0be"
-    foreground = "#282b35"
+    background = "#790ead"
+    foreground = "#53555d"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#b21889"
-    foreground = "#282b35"
+    foreground = "#53555d"

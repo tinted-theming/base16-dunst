@@ -1,11 +1,14 @@
+# Base16 Summerfruit Light
+# Scheme author: Christopher Corley (http://christop.club/)
+
 [global]
-frame_color = "#101010"
-separator_color = frame
+    frame_color = "#101010"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#1faaaa"
-    foreground = "#ffffff"
+    background = "#3777e6"
+    foreground = "#d0d0d0"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff0086"
-    foreground = "#ffffff"
+    foreground = "#d0d0d0"

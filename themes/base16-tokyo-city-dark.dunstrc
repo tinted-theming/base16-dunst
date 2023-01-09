@@ -1,11 +1,14 @@
+# Base16 Tokyo City Dark
+# Scheme author: Michaël Ball
+
 [global]
-frame_color = "#d8e2ec"
-separator_color = frame
+    frame_color = "#d8e2ec"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#89ddff"
-    foreground = "#171d23"
+    background = "#7aa2f7"
+    foreground = "#28323a"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f7768e"
-    foreground = "#171d23"
+    foreground = "#28323a"

@@ -1,11 +1,14 @@
+# Base16 Blueish
+# Scheme author: Ben Mayoras
+
 [global]
-frame_color = "#c8e1f8"
-separator_color = frame
+    frame_color = "#c8e1f8"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#5fd1ff"
-    foreground = "#182430"
+    background = "#82aaff"
+    foreground = "#46290a"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#4ce587"
-    foreground = "#182430"
+    foreground = "#46290a"

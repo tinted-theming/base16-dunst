@@ -1,11 +1,14 @@
+# Base16 Sakura
+# Scheme author: Misterio77 (http://github.com/Misterio77)
+
 [global]
-frame_color = "#564448"
-separator_color = frame
+    frame_color = "#564448"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#1d8991"
-    foreground = "#feedf3"
+    background = "#006e93"
+    foreground = "#e0ccd1"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#df2d52"
-    foreground = "#feedf3"
+    foreground = "#e0ccd1"

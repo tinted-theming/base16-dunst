@@ -1,11 +1,14 @@
+# Base16 Heetch Dark
+# Scheme author: Geoffrey Teale (tealeg@gmail.com)
+
 [global]
-frame_color = "#bdb6c5"
-separator_color = frame
+    frame_color = "#bdb6c5"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#f80059"
-    foreground = "#190134"
+    background = "#bd0152"
+    foreground = "#5a496e"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#27d9d5"
-    foreground = "#190134"
+    foreground = "#5a496e"

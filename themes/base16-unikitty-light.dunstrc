@@ -1,11 +1,14 @@
+# Base16 Unikitty Light
+# Scheme author: Josh W Lewis (@joshwlewis)
+
 [global]
-frame_color = "#6c696e"
-separator_color = frame
+    frame_color = "#6c696e"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#149bda"
-    foreground = "#ffffff"
+    background = "#775dff"
+    foreground = "#c4c3c5"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#d8137f"
-    foreground = "#ffffff"
+    foreground = "#c4c3c5"

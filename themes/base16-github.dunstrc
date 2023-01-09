@@ -1,11 +1,14 @@
+# Base16 Github
+# Scheme author: Defman21
+
 [global]
-frame_color = "#333333"
-separator_color = frame
+    frame_color = "#333333"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#183691"
-    foreground = "#ffffff"
+    background = "#795da3"
+    foreground = "#c8c8fa"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ed6a43"
-    foreground = "#ffffff"
+    foreground = "#c8c8fa"

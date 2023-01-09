@@ -1,11 +1,14 @@
+# Base16 Mocha
+# Scheme author: Chris Kempson (http://chriskempson.com)
+
 [global]
-frame_color = "#d0c8c6"
-separator_color = frame
+    frame_color = "#d0c8c6"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#7bbda4"
-    foreground = "#3b3228"
+    background = "#8ab3b5"
+    foreground = "#645240"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#cb6077"
-    foreground = "#3b3228"
+    foreground = "#645240"

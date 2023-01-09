@@ -1,11 +1,14 @@
+# Base16 Helios
+# Scheme author: Alex Meyer (https://github.com/reyemxela)
+
 [global]
-frame_color = "#d5d5d5"
-separator_color = frame
+    frame_color = "#d5d5d5"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#1ba595"
-    foreground = "#1d2021"
+    background = "#1e8bac"
+    foreground = "#53585b"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#d72638"
-    foreground = "#1d2021"
+    foreground = "#53585b"

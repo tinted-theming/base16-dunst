@@ -1,11 +1,14 @@
+# Base16 darkmoss
+# Scheme author: Gabriel Avanzi (https://github.com/avanzzzi)
+
 [global]
-frame_color = "#c7c7a5"
-separator_color = frame
+    frame_color = "#c7c7a5"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#66d9ef"
-    foreground = "#171e1f"
+    background = "#498091"
+    foreground = "#373c3d"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff4658"
-    foreground = "#171e1f"
+    foreground = "#373c3d"

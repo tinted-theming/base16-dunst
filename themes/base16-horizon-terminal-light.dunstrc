@@ -1,11 +1,14 @@
+# Base16 Horizon Terminal Light
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+
 [global]
-frame_color = "#403c3d"
-separator_color = frame
+    frame_color = "#403c3d"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#59e1e3"
-    foreground = "#fdf0ed"
+    background = "#26bbd9"
+    foreground = "#f9cbbe"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#e95678"
-    foreground = "#fdf0ed"
+    foreground = "#f9cbbe"

@@ -1,11 +1,14 @@
+# Base16 Tomorrow Night Eighties
+# Scheme author: Chris Kempson (http://chriskempson.com)
+
 [global]
-frame_color = "#cccccc"
-separator_color = frame
+    frame_color = "#cccccc"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#66cccc"
-    foreground = "#2d2d2d"
+    background = "#6699cc"
+    foreground = "#515151"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f2777a"
-    foreground = "#2d2d2d"
+    foreground = "#515151"

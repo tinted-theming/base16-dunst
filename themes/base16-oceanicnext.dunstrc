@@ -1,11 +1,14 @@
+# Base16 OceanicNext
+# Scheme author: https://github.com/voronianski/oceanic-next-color-scheme
+
 [global]
-frame_color = "#c0c5ce"
-separator_color = frame
+    frame_color = "#c0c5ce"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#5fb3b3"
-    foreground = "#1b2b34"
+    background = "#6699cc"
+    foreground = "#4f5b66"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ec5f67"
-    foreground = "#1b2b34"
+    foreground = "#4f5b66"

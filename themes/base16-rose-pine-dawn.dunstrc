@@ -1,11 +1,14 @@
+# Base16 Rosé Pine Dawn
+# Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+
 [global]
-frame_color = "#575279"
-separator_color = frame
+    frame_color = "#575279"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#286983"
-    foreground = "#faf4ed"
+    background = "#56949f"
+    foreground = "#f2e9de"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#1f1d2e"
-    foreground = "#faf4ed"
+    foreground = "#f2e9de"

@@ -1,11 +1,14 @@
+# Base16 OneDark
+# Scheme author: Lalit Magant (http://github.com/tilal6991)
+
 [global]
-frame_color = "#abb2bf"
-separator_color = frame
+    frame_color = "#abb2bf"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#56b6c2"
-    foreground = "#282c34"
+    background = "#61afef"
+    foreground = "#3e4451"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#e06c75"
-    foreground = "#282c34"
+    foreground = "#3e4451"

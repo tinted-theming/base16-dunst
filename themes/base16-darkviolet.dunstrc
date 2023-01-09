@@ -1,11 +1,14 @@
+# Base16 Dark Violet
+# Scheme author: ruler501 (https://github.com/ruler501/base16-darkviolet)
+
 [global]
-frame_color = "#b08ae6"
-separator_color = frame
+    frame_color = "#b08ae6"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#40dfff"
-    foreground = "#000000"
+    background = "#4136d9"
+    foreground = "#432d59"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#a82ee6"
-    foreground = "#000000"
+    foreground = "#432d59"

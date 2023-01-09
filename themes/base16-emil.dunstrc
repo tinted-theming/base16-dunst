@@ -1,11 +1,14 @@
+# Base16 emil
+# Scheme author: limelier
+
 [global]
-frame_color = "#313145"
-separator_color = frame
+    frame_color = "#313145"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#2155d6"
-    foreground = "#efefef"
+    background = "#471397"
+    foreground = "#9e9eaf"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f43979"
-    foreground = "#efefef"
+    foreground = "#9e9eaf"

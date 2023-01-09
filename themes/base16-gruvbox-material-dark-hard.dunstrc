@@ -1,11 +1,14 @@
+# Base16 Gruvbox Material Dark, Hard
+# Scheme author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+
 [global]
-frame_color = "#ddc7a1"
-separator_color = frame
+    frame_color = "#ddc7a1"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#89b482"
-    foreground = "#202020"
+    background = "#7daea3"
+    foreground = "#504945"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ea6962"
-    foreground = "#202020"
+    foreground = "#504945"

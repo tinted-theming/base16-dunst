@@ -1,11 +1,14 @@
+# Base16 Darcula
+# Scheme author: jetbrains
+
 [global]
-frame_color = "#a9b7c6"
-separator_color = frame
+    frame_color = "#a9b7c6"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#629755"
-    foreground = "#2b2b2b"
+    background = "#9876aa"
+    foreground = "#323232"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#4eade5"
-    foreground = "#2b2b2b"
+    foreground = "#323232"

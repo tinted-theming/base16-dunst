@@ -1,11 +1,14 @@
+# Base16 Hardcore
+# Scheme author: Chris Caller
+
 [global]
-frame_color = "#cdcdcd"
-separator_color = frame
+    frame_color = "#cdcdcd"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#708387"
-    foreground = "#212121"
+    background = "#66d9ef"
+    foreground = "#353535"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f92672"
-    foreground = "#212121"
+    foreground = "#353535"

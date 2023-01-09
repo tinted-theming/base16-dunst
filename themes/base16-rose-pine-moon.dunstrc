@@ -1,11 +1,14 @@
+# Base16 Rosé Pine Moon
+# Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+
 [global]
-frame_color = "#e0def4"
-separator_color = frame
+    frame_color = "#e0def4"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#3e8fb0"
-    foreground = "#232136"
+    background = "#9ccfd8"
+    foreground = "#393552"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ecebf0"
-    foreground = "#232136"
+    foreground = "#393552"

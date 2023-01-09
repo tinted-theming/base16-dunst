@@ -1,11 +1,14 @@
+# Base16 Nebula
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+
 [global]
-frame_color = "#a4a6a9"
-separator_color = frame
+    frame_color = "#a4a6a9"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#226f68"
-    foreground = "#22273b"
+    background = "#4d6bb6"
+    foreground = "#5a8380"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#777abc"
-    foreground = "#22273b"
+    foreground = "#5a8380"

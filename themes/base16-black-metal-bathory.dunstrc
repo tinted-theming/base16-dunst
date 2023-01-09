@@ -1,11 +1,14 @@
+# Base16 Black Metal (Bathory)
+# Scheme author: metalelf0 (https://github.com/metalelf0)
+
 [global]
-frame_color = "#c1c1c1"
-separator_color = frame
+    frame_color = "#c1c1c1"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#aaaaaa"
-    foreground = "#000000"
+    background = "#888888"
+    foreground = "#222222"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#5f8787"
-    foreground = "#000000"
+    foreground = "#222222"

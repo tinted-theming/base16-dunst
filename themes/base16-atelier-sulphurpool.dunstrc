@@ -1,11 +1,14 @@
+# Base16 Atelier Sulphurpool
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+
 [global]
-frame_color = "#979db4"
-separator_color = frame
+    frame_color = "#979db4"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#22a2c9"
-    foreground = "#202746"
+    background = "#3d8fd1"
+    foreground = "#5e6687"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#c94922"
-    foreground = "#202746"
+    foreground = "#5e6687"

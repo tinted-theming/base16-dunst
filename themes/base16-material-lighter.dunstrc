@@ -1,11 +1,14 @@
+# Base16 Material Lighter
+# Scheme author: Nate Peterson
+
 [global]
-frame_color = "#80cbc4"
-separator_color = frame
+    frame_color = "#80cbc4"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#39adb5"
-    foreground = "#fafafa"
+    background = "#6182b8"
+    foreground = "#cceae7"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff5370"
-    foreground = "#fafafa"
+    foreground = "#cceae7"

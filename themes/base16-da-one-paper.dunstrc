@@ -1,11 +1,14 @@
+# Base16 Da One Paper
+# Scheme author: NNB (https://github.com/NNBnh)
+
 [global]
-frame_color = "#181818"
-separator_color = frame
+    frame_color = "#181818"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#64b5a7"
-    foreground = "#faf0dc"
+    background = "#5890f8"
+    foreground = "#888888"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#de5d6e"
-    foreground = "#faf0dc"
+    foreground = "#888888"

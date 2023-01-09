@@ -1,11 +1,14 @@
+# Base16 Windows High Contrast Light
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+
 [global]
-frame_color = "#545454"
-separator_color = frame
+    frame_color = "#545454"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#008080"
-    foreground = "#fcfcfc"
+    background = "#000080"
+    foreground = "#d4d4d4"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#800000"
-    foreground = "#fcfcfc"
+    foreground = "#d4d4d4"

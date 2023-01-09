@@ -1,11 +1,14 @@
+# Base16 Pop
+# Scheme author: Chris Kempson (http://chriskempson.com)
+
 [global]
-frame_color = "#d0d0d0"
-separator_color = frame
+    frame_color = "#d0d0d0"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#00aabb"
-    foreground = "#000000"
+    background = "#0e5a94"
+    foreground = "#303030"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#eb008a"
-    foreground = "#000000"
+    foreground = "#303030"

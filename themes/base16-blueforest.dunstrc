@@ -1,11 +1,14 @@
+# Base16 Blue Forest
+# Scheme author: alonsodomin (https://github.com/alonsodomin)
+
 [global]
-frame_color = "#ffcc33"
-separator_color = frame
+    frame_color = "#ffcc33"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#80ff80"
-    foreground = "#141f2e"
+    background = "#a2cff5"
+    foreground = "#273e5c"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#fffab1"
-    foreground = "#141f2e"
+    foreground = "#273e5c"

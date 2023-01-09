@@ -1,11 +1,14 @@
+# Base16 Rebecca
+# Scheme author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
 [global]
-frame_color = "#f1eff8"
-separator_color = frame
+    frame_color = "#f1eff8"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#8eaee0"
-    foreground = "#292a44"
+    background = "#2de0a7"
+    foreground = "#383a62"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#a0a0c5"
-    foreground = "#292a44"
+    foreground = "#383a62"

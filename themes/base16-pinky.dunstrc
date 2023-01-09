@@ -1,11 +1,14 @@
+# Base16 pinky
+# Scheme author: Benjamin (https://github.com/b3nj5m1n)
+
 [global]
-frame_color = "#f5f5f5"
-separator_color = frame
+    frame_color = "#f5f5f5"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#6600ff"
-    foreground = "#171517"
+    background = "#00ffff"
+    foreground = "#1d1b1d"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ffa600"
-    foreground = "#171517"
+    foreground = "#1d1b1d"

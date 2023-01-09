@@ -1,11 +1,14 @@
+# Base16 Apprentice
+# Scheme author: romainl
+
 [global]
-frame_color = "#bcbcbc"
-separator_color = frame
+    frame_color = "#bcbcbc"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#5f875f"
-    foreground = "#262626"
+    background = "#ffffaf"
+    foreground = "#333333"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#5f8787"
-    foreground = "#262626"
+    foreground = "#333333"

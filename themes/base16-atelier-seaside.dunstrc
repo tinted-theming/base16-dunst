@@ -1,11 +1,14 @@
+# Base16 Atelier Seaside
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+
 [global]
-frame_color = "#8ca68c"
-separator_color = frame
+    frame_color = "#8ca68c"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#1999b3"
-    foreground = "#131513"
+    background = "#3d62f5"
+    foreground = "#5e6e5e"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#e6193c"
-    foreground = "#131513"
+    foreground = "#5e6e5e"

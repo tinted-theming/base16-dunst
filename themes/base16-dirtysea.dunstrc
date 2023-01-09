@@ -1,11 +1,14 @@
+# Base16 dirtysea
+# Scheme author: Kahlil (Kal) Hodgson
+
 [global]
-frame_color = "#000000"
-separator_color = frame
+    frame_color = "#000000"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#755b00"
-    foreground = "#e0e0e0"
+    background = "#007300"
+    foreground = "#d0d0d0"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#840000"
-    foreground = "#e0e0e0"
+    foreground = "#d0d0d0"

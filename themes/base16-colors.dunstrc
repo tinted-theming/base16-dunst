@@ -1,11 +1,14 @@
+# Base16 Colors
+# Scheme author: mrmrs (http://clrs.cc)
+
 [global]
-frame_color = "#bbbbbb"
-separator_color = frame
+    frame_color = "#bbbbbb"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#7fdbff"
-    foreground = "#111111"
+    background = "#0074d9"
+    foreground = "#555555"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff4136"
-    foreground = "#111111"
+    foreground = "#555555"

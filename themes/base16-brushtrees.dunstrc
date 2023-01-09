@@ -1,11 +1,14 @@
+# Base16 Brush Trees
+# Scheme author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+
 [global]
-frame_color = "#6d828e"
-separator_color = frame
+    frame_color = "#6d828e"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#86b3b3"
-    foreground = "#e3efef"
+    background = "#868cb3"
+    foreground = "#b0c5c8"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#b38686"
-    foreground = "#e3efef"
+    foreground = "#b0c5c8"

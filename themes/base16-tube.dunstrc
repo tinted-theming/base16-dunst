@@ -1,11 +1,14 @@
+# Base16 London Tube
+# Scheme author: Jan T. Sott
+
 [global]
-frame_color = "#d9d8d8"
-separator_color = frame
+    frame_color = "#d9d8d8"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#85cebc"
-    foreground = "#231f20"
+    background = "#009ddc"
+    foreground = "#5a5758"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ee2e24"
-    foreground = "#231f20"
+    foreground = "#5a5758"

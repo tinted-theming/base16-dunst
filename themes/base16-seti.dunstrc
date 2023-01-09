@@ -1,11 +1,14 @@
+# Base16 Seti UI
+# Scheme author: 
+
 [global]
-frame_color = "#d6d6d6"
-separator_color = frame
+    frame_color = "#d6d6d6"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#55dbbe"
-    foreground = "#151718"
+    background = "#55b5db"
+    foreground = "#3b758c"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#cd3f45"
-    foreground = "#151718"
+    foreground = "#3b758c"

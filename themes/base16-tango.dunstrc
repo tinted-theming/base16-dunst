@@ -1,11 +1,14 @@
+# Base16 Tango
+# Scheme author: @Schnouki, based on the Tango Desktop Project
+
 [global]
-frame_color = "#d3d7cf"
-separator_color = frame
+    frame_color = "#d3d7cf"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#06989a"
-    foreground = "#2e3436"
+    background = "#3465a4"
+    foreground = "#fce94f"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#cc0000"
-    foreground = "#2e3436"
+    foreground = "#fce94f"

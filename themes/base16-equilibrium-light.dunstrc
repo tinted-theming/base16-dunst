@@ -1,11 +1,14 @@
+# Base16 Equilibrium Light
+# Scheme author: Carlo Abelli
+
 [global]
-frame_color = "#43474e"
-separator_color = frame
+    frame_color = "#43474e"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#007a72"
-    foreground = "#f5f0e7"
+    background = "#0073b5"
+    foreground = "#d8d4cb"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#d02023"
-    foreground = "#f5f0e7"
+    foreground = "#d8d4cb"

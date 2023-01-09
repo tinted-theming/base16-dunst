@@ -1,11 +1,14 @@
+# Base16 Codeschool
+# Scheme author: blockloop
+
 [global]
-frame_color = "#9ea7a6"
-separator_color = frame
+    frame_color = "#9ea7a6"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#b02f30"
-    foreground = "#232c31"
+    background = "#484d79"
+    foreground = "#2a343a"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#2a5491"
-    foreground = "#232c31"
+    foreground = "#2a343a"

@@ -1,11 +1,14 @@
+# Base16 Cupertino
+# Scheme author: Defman21
+
 [global]
-frame_color = "#404040"
-separator_color = frame
+    frame_color = "#404040"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#318495"
-    foreground = "#ffffff"
+    background = "#0000ff"
+    foreground = "#c0c0c0"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#c41a15"
-    foreground = "#ffffff"
+    foreground = "#c0c0c0"

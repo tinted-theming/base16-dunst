@@ -1,11 +1,14 @@
+# Base16 Ashes
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+
 [global]
-frame_color = "#c7ccd1"
-separator_color = frame
+    frame_color = "#c7ccd1"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#95aec7"
-    foreground = "#1c2023"
+    background = "#ae95c7"
+    foreground = "#565e65"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#c7ae95"
-    foreground = "#1c2023"
+    foreground = "#565e65"

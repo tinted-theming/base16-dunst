@@ -1,11 +1,14 @@
+# Base16 Atelier Forest Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+
 [global]
-frame_color = "#68615e"
-separator_color = frame
+    frame_color = "#68615e"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#3d97b8"
-    foreground = "#f1efee"
+    background = "#407ee7"
+    foreground = "#a8a19f"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f22c40"
-    foreground = "#f1efee"
+    foreground = "#a8a19f"

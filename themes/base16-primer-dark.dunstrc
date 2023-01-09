@@ -1,11 +1,14 @@
+# Base16 Primer Dark
+# Scheme author: Jimmy Lin
+
 [global]
-frame_color = "#b1bac4"
-separator_color = frame
+    frame_color = "#b1bac4"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#a5d6ff"
-    foreground = "#010409"
+    background = "#58a6ff"
+    foreground = "#30363d"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff7b72"
-    foreground = "#010409"
+    foreground = "#30363d"

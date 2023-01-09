@@ -1,11 +1,14 @@
+# Base16 Gruvbox light, soft
+# Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
 [global]
-frame_color = "#504945"
-separator_color = frame
+    frame_color = "#504945"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#427b58"
-    foreground = "#f2e5bc"
+    background = "#076678"
+    foreground = "#d5c4a1"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#9d0006"
-    foreground = "#f2e5bc"
+    foreground = "#d5c4a1"

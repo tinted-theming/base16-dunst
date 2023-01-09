@@ -1,11 +1,14 @@
+# Base16 vulcan
+# Scheme author: Andrey Varfolomeev
+
 [global]
-frame_color = "#5b778c"
-separator_color = frame
+    frame_color = "#5b778c"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
     background = "#977d7c"
-    foreground = "#041523"
+    foreground = "#003552"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#818591"
-    foreground = "#041523"
+    foreground = "#003552"

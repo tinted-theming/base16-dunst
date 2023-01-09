@@ -1,11 +1,14 @@
+# Base16 Atelier Seaside Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+
 [global]
-frame_color = "#5e6e5e"
-separator_color = frame
+    frame_color = "#5e6e5e"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#1999b3"
-    foreground = "#f4fbf4"
+    background = "#3d62f5"
+    foreground = "#8ca68c"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#e6193c"
-    foreground = "#f4fbf4"
+    foreground = "#8ca68c"

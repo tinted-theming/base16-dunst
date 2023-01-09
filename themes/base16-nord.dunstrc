@@ -1,11 +1,14 @@
+# Base16 Nord
+# Scheme author: arcticicestudio
+
 [global]
-frame_color = "#e5e9f0"
-separator_color = frame
+    frame_color = "#e5e9f0"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#88c0d0"
-    foreground = "#2e3440"
+    background = "#81a1c1"
+    foreground = "#434c5e"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#bf616a"
-    foreground = "#2e3440"
+    foreground = "#434c5e"

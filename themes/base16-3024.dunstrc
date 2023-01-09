@@ -1,11 +1,14 @@
+# Base16 3024
+# Scheme author: Jan T. Sott (http://github.com/idleberg)
+
 [global]
-frame_color = "#a5a2a2"
-separator_color = frame
+    frame_color = "#a5a2a2"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#b5e4f4"
-    foreground = "#090300"
+    background = "#01a0e4"
+    foreground = "#4a4543"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#db2d20"
-    foreground = "#090300"
+    foreground = "#4a4543"

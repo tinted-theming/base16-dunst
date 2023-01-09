@@ -1,11 +1,14 @@
+# Base16 Kanagawa
+# Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
+
 [global]
-frame_color = "#dcd7ba"
-separator_color = frame
+    frame_color = "#dcd7ba"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#6a9589"
-    foreground = "#1f1f28"
+    background = "#7e9cd8"
+    foreground = "#223249"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#c34043"
-    foreground = "#1f1f28"
+    foreground = "#223249"

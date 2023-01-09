@@ -1,11 +1,14 @@
+# Base16 Woodland
+# Scheme author: Jay Cornwall (https://jcornwall.com)
+
 [global]
-frame_color = "#cabcb1"
-separator_color = frame
+    frame_color = "#cabcb1"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#6eb958"
-    foreground = "#231e18"
+    background = "#88a4d3"
+    foreground = "#48413a"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#d35c5c"
-    foreground = "#231e18"
+    foreground = "#48413a"

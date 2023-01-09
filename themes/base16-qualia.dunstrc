@@ -1,11 +1,14 @@
+# Base16 Qualia
+# Scheme author: isaacwhanson
+
 [global]
-frame_color = "#c0c0c0"
-separator_color = frame
+    frame_color = "#c0c0c0"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#c8c874"
-    foreground = "#101010"
+    background = "#50cacd"
+    foreground = "#454545"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#efa6a2"
-    foreground = "#101010"
+    foreground = "#454545"

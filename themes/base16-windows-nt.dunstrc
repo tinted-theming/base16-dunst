@@ -1,11 +1,14 @@
+# Base16 Windows NT
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+
 [global]
-frame_color = "#c0c0c0"
-separator_color = frame
+    frame_color = "#c0c0c0"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#00ffff"
-    foreground = "#000000"
+    background = "#0000ff"
+    foreground = "#555555"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ff0000"
-    foreground = "#000000"
+    foreground = "#555555"

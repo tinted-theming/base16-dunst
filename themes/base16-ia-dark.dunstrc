@@ -1,11 +1,14 @@
+# Base16 iA Dark
+# Scheme author: iA Inc. (modified by aramisgithub)
+
 [global]
-frame_color = "#cccccc"
-separator_color = frame
+    frame_color = "#cccccc"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#7c9cae"
-    foreground = "#1a1a1a"
+    background = "#8eccdd"
+    foreground = "#1d414d"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#d88568"
-    foreground = "#1a1a1a"
+    foreground = "#1d414d"

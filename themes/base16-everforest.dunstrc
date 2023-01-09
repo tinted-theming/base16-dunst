@@ -1,11 +1,14 @@
+# Base16 Everforest
+# Scheme author: Sainnhe Park (https://github.com/sainnhe)
+
 [global]
-frame_color = "#d3c6aa"
-separator_color = frame
+    frame_color = "#d3c6aa"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#e69875"
-    foreground = "#2f383e"
+    background = "#a7c080"
+    foreground = "#4a555b"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#7fbbb3"
-    foreground = "#2f383e"
+    foreground = "#4a555b"

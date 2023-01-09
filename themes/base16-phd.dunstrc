@@ -1,11 +1,14 @@
+# Base16 PhD
+# Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
+
 [global]
-frame_color = "#b8bbc2"
-separator_color = frame
+    frame_color = "#b8bbc2"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#72b9bf"
-    foreground = "#061229"
+    background = "#5299bf"
+    foreground = "#4d5666"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#d07346"
-    foreground = "#061229"
+    foreground = "#4d5666"

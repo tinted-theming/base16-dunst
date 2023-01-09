@@ -1,11 +1,14 @@
+# Base16 Grayscale Light
+# Scheme author: Alexandre Gavioli (https://github.com/Alexx2/)
+
 [global]
-frame_color = "#464646"
-separator_color = frame
+    frame_color = "#464646"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#868686"
-    foreground = "#f7f7f7"
+    background = "#686868"
+    foreground = "#b9b9b9"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#7c7c7c"
-    foreground = "#f7f7f7"
+    foreground = "#b9b9b9"

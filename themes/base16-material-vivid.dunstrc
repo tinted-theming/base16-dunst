@@ -1,11 +1,14 @@
+# Base16 Material Vivid
+# Scheme author: joshyrobot
+
 [global]
-frame_color = "#80868b"
-separator_color = frame
+    frame_color = "#80868b"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#00bcd4"
-    foreground = "#202124"
+    background = "#2196f3"
+    foreground = "#323639"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#f44336"
-    foreground = "#202124"
+    foreground = "#323639"

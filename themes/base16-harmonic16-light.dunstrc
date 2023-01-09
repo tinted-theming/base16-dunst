@@ -1,11 +1,14 @@
+# Base16 Harmonic16 Light
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+
 [global]
-frame_color = "#405c79"
-separator_color = frame
+    frame_color = "#405c79"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#568bbf"
-    foreground = "#f7f9fb"
+    background = "#8b56bf"
+    foreground = "#cbd6e2"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#bf8b56"
-    foreground = "#f7f9fb"
+    foreground = "#cbd6e2"

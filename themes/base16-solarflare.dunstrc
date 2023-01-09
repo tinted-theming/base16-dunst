@@ -1,11 +1,14 @@
+# Base16 Solar Flare
+# Scheme author: Chuck Harmston (https://chuck.harmston.ch)
+
 [global]
-frame_color = "#a6afb8"
-separator_color = frame
+    frame_color = "#a6afb8"
+    separator_color = frame
 
 [base16_low]
     msg_urgency = low
-    background = "#52cbb0"
-    foreground = "#18262f"
+    background = "#33b5e1"
+    foreground = "#586875"
 
 [base16_normal]
     msg_urgency = normal
@@ -15,4 +18,4 @@ separator_color = frame
 [base16_critical]
     msg_urgency = critical
     background = "#ef5253"
-    foreground = "#18262f"
+    foreground = "#586875"
