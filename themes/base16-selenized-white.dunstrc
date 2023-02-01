@@ -1,0 +1,21 @@
+# Base16 selenized-white
+# Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+
+[global]
+    frame_color = "#474747"
+    separator_color = frame
+
+[base16_low]
+    msg_urgency = low
+    background = "#0054cf"
+    foreground = "#cdcdcd"
+
+[base16_normal]
+    msg_urgency = normal
+    background = "#ffffff"
+    foreground = "#474747"
+
+[base16_critical]
+    msg_urgency = critical
+    background = "#bf0000"
+    foreground = "#cdcdcd"
