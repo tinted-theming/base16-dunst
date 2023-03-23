@@ -1,17 +1,18 @@
-frame_color = "#CDD3DE"
-separator_color = "#CDD3DE"
+[global]
+frame_color = "#cdd3de"
+separator_color = "#cdd3de"
 
 [base16_low]
     msg_urgency = low
-    background = "#2C393F"
+    background = "#2c393f"
     foreground = "#707880"
 
 [base16_normal]
     msg_urgency = normal
-    background = "#37474F"
-    foreground = "#CDD3DE"
+    background = "#37474f"
+    foreground = "#cdd3de"
 
 [base16_critical]
     msg_urgency = critical
-    background = "#EC5F67"
-    foreground = "#D5DBE5"
+    background = "#ec5f67"
+    foreground = "#d5dbe5"

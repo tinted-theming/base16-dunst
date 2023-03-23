@@ -1,3 +1,4 @@
+[global]
 frame_color = "#373b41"
 separator_color = "#373b41"
 
@@ -13,5 +14,5 @@ separator_color = "#373b41"
 
 [base16_critical]
     msg_urgency = critical
-    background = "#CC342B"
+    background = "#cc342b"
     foreground = "#282a2e"
