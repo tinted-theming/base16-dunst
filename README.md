@@ -11,7 +11,7 @@ To use, you can copy one of the config files in themes/ or use curl:
 
 ```
 mkdir -p ~/.config/dunst
-curl https://raw.githubusercontent.com/tinted-theming/base16-dunst/master/themes/base16-default-dark.dunstrc >> ~/.config/dunst/dunstrc
+curl https://raw.githubusercontent.com/tinted-theming/base16-dunst/main/themes/base16-default-dark.dunstrc >> ~/.config/dunst/dunstrc
 ```
 
 We used `msg_urgency` configuration instead of `urgency_low`, `urgency_normal`,
