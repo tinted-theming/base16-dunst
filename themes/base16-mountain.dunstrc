@@ -1,8 +1,8 @@
 # Base16 Mountain
-# Scheme author: gnsfujiwara (https://github.com/gnsfujiwara) based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+# Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
 
 [global]
-    frame_color = "#f0f0f0"
+    frame_color = "#cacaca"
     separator_color = frame
 
 [base16_low]
@@ -13,7 +13,7 @@
 [base16_normal]
     msg_urgency = normal
     background = "#0f0f0f"
-    foreground = "#f0f0f0"
+    foreground = "#cacaca"
 
 [base16_critical]
     msg_urgency = critical

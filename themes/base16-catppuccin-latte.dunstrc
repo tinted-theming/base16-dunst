@@ -1,0 +1,21 @@
+# Base16 Catppuccin Latte
+# Scheme author: https://github.com/catppuccin/catppuccin
+
+[global]
+    frame_color = "#4c4f69"
+    separator_color = frame
+
+[base16_low]
+    msg_urgency = low
+    background = "#1e66f5"
+    foreground = "#ccd0da"
+
+[base16_normal]
+    msg_urgency = normal
+    background = "#eff1f5"
+    foreground = "#4c4f69"
+
+[base16_critical]
+    msg_urgency = critical
+    background = "#d20f39"
+    foreground = "#ccd0da"

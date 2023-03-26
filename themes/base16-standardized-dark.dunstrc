@@ -1,0 +1,21 @@
+# Base16 standardized-dark
+# Scheme author: ali (https://github.com/ali-githb/base16-standardized-scheme)
+
+[global]
+    frame_color = "#c0c0c0"
+    separator_color = frame
+
+[base16_low]
+    msg_urgency = low
+    background = "#00a3f2"
+    foreground = "#555555"
+
+[base16_normal]
+    msg_urgency = normal
+    background = "#222222"
+    foreground = "#c0c0c0"
+
+[base16_critical]
+    msg_urgency = critical
+    background = "#e15d67"
+    foreground = "#555555"
