@@ -3,16 +3,16 @@ frame_color = "#aa556f"
 separator_color = "#aa556f"
 
 [base16_low]
-    msg_urgency = low
+    msg_urgency = "low"
     background = "#2a153c"
     foreground = "#74316b"
 
 [base16_normal]
-    msg_urgency = normal
+    msg_urgency = "normal"
     background = "#4b2054"
     foreground = "#aa556f"
 
 [base16_critical]
-    msg_urgency = critical
+    msg_urgency = "critical"
     background = "#c53253"
     foreground = "#c4686d"
